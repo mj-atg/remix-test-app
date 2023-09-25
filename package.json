@@ -10,8 +10,8 @@
     "typecheck": "tsc"
   },
   "ampt": {
-    "org": "",
-    "app": "remix"
+    "app": "remix-test-app",
+    "org": "markjames163246"
   },
   "dependencies": {
     "@ampt/remix": "^0.0.1-beta.2",
